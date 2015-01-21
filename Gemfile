@@ -28,6 +28,7 @@ gem 'spring',        group: :development
 gem 'slim-rails'
 gem "font-awesome-rails"
 gem 'tzinfo-data'
+gem 'thin'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
